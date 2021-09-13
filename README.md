@@ -1,2 +1,2 @@
 # anzsic
-.csv for the Australia New Zealand Standard Industry Classification
+Files showing the Australia New Zealand Standard Industry Classification
